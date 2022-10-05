@@ -129,7 +129,7 @@ export const header: HeaderConfig = {
     },
     {
       text: 'Blog',
-      link: '/hello-world/elements'
+      link: '/hello-world/toc-disabled'
     },
     {
       text: 'Photo',
