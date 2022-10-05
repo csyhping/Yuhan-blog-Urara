@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     name: 'Yuhan Ping',
     avatar: '/assets/avatar.png',
     status: '🌸',
-    bio: 'U have me at hello.'
+    bio: 'The University of Hong Kong <br> U have me at hello.'
   },
   themeColor: '#3D4451'
 }
