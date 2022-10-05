@@ -130,6 +130,14 @@ export const header: HeaderConfig = {
     {
       text: 'Blog',
       link: '/hello-world/elements'
+    },
+    {
+      text: 'Photo',
+      link: '/hello-world/elements'
+    },
+    {
+      text: 'About',
+      link: '/hello-world/elements'
     }
   ]
 }
