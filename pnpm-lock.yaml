@@ -1349,7 +1349,13 @@ packages:
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
-
+    
+  /@iconify-json/simple-icons/1.1.30:
+    resolution: {integrity: sha512-mBuGvCiEF7bDW2Kgye8PIQFHCRM+r8dDydg5upaiard8V3WDKrnhdc06mcafG++SuBQaFvaS7P76EuMADspGTg==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+    
   /@iconify/types/1.1.0:
     resolution: {integrity: sha512-Jh0llaK2LRXQoYsorIH8maClebsnzTcve+7U3rQUSnC11X4jtPnFuyatqFLvMxZ8MLG8dB4zfHsbPfuvxluONw==}
     dev: true
